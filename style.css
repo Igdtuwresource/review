@@ -42,7 +42,7 @@ border-right-color: rgba(238, 233, 237, 0.1);
   background-color: #c58cc2;
 }
 .cb1{
-  background-color: rgba(199, 156, 201, 0.1);
+  background-color: rgba(249, 249, 243, 0.1);
 }
 .btn{
   color:rgb(20, 20, 21);
@@ -70,7 +70,7 @@ label:before{
     height: 20px;
     
     border-radius: 50%;
-    background: #000;
+    background: #d0c718;
     cursor: pointer;
     transition: 0.4s;
 }
