@@ -39,7 +39,7 @@ border-bottom-color: rgba(237, 231, 237, 0.1);
 border-right-color: rgba(238, 233, 237, 0.1);
       }
 .card:hover{
-  background-color: #d2c8d2;
+  background-color: black;
 }
 .cb1{
   background-color: rgba(209, 241, 236, 0.1);
