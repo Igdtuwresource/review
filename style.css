@@ -30,7 +30,7 @@ font-family: 'Montserrat', sans-serif;
       
       font-weight:bold;
       border-radius: 1rem;
-      border: 2px solid transparent;
+      border: 1px solid transparent;
       backdrop-filter: blur(1rem);
       box-shadow: 1.3rem 1.3rem 1.3rem rgba(30, 25, 1, 0.5);
       border-top-color: rgba(234, 226, 237, 0.5);
@@ -39,14 +39,18 @@ border-bottom-color: rgba(237, 231, 237, 0.1);
 border-right-color: rgba(238, 233, 237, 0.1);
       }
 .card:hover{
-  background-color: #c58cc2;
+  background-color: #d2c8d2;
 }
 .cb1{
-  background-color: rgba(249, 249, 243, 0.1);
+  background-color: rgba(209, 241, 236, 0.1);
+}
+.card-body{
+  background-color: rgba(251, 243, 244, 0.1);
+  border-radius:1rem;
 }
 .btn{
-  color:rgb(20, 20, 21);
-  font-weight:900;
+  color:rgb(247, 247, 252);
+ 
 }
 
 main{
@@ -81,7 +85,7 @@ label.active:before{
 }
 body.night{
     background: #000;
-    color: #fff;
+    color: #f6f2f2;
 }
 @media screen and (min-width:900px) {
   .respon{
