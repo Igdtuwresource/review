@@ -47,12 +47,16 @@ border-right-color: rgba(238, 233, 237, 0.1);
 .card-body{
   background-color: rgba(251, 243, 244, 0.1);
   border-radius:1rem;
-}
-.btn{
-  color:rgb(247, 247, 252);
  
 }
-
+.btn{
+  color:rgb(235, 226, 228);
+ 
+}
+.card-text{
+  
+  border-radius:1rem;
+}
 main{
   margin: 5vh 15%;
 }
@@ -85,7 +89,7 @@ label.active:before{
 }
 body.night{
     background: #000;
-    color: #f6f2f2;
+    color: #f6f1f1;
 }
 @media screen and (min-width:900px) {
   .respon{
